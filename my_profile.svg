@@ -41,22 +41,22 @@ text, tspan {white-space: pre;}
 </text>
 
 <text x="510" y="30" fill="#c9d1d9">
-<tspan x="510" y="30">-thizara@deshan-</tspan>
-<tspan x="510" y="50">——————</tspan>
-<tspan x="510" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 10</tspan>
-<tspan x="510" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">23 years</tspan>
-<tspan x="510" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">University Of Colombo School Of Computing</tspan><tspan class="commentColor"> #BIT</tspan>
-<tspan x="510" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Bachelor Of Information Technology</tspan><tspan class="commentColor"></tspan>
-<tspan x="510" y="150" class="keyColor">Possition</tspan>: <tspan class="valueColor">"Colombo, Sri Lanka"</tspan>
-<tspan x="510" y="190" class="keyColor">Languages</tspan><tspan class="keyColor"></tspan>: <tspan class="valueColor">[Java, JavaScript, typeScript]</tspan>
-<tspan x="510" y="210" class="keyColor">Skills</tspan><tspan class="keyColor"></tspan>: <tspan class="valueColor">HTML, CSS, React, Node, Express, Nextjs</tspan>
-<tspan x="510" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Sinhala</tspan>
-<tspan x="510" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">io</tspan>: <tspan class="valueColor">Gaming, Football, Movies</tspan>
-<tspan x="510" y="320" class="keyColor">Contact</tspan>:
-<tspan x="510" y="340">——————</tspan>
-<tspan x="510" y="360" class="keyColor">Email</tspan>: <tspan class="valueColor">thizaradeshan@gmail.com</tspan>
-<tspan x="510" y="380" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">thisaradeshan</tspan>
-<tspan x="510" y="400" class="keyColor">X</tspan>: <tspan class="valueColor">@Thizara1</tspan>
+<tspan x="510" y="110">-thizara@deshan-</tspan>
+<tspan x="510" y="130">——————</tspan>
+<tspan x="510" y="150" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 10</tspan>
+<tspan x="510" y="170" class="keyColor">Uptime</tspan>: <tspan class="valueColor">23 years</tspan>
+<tspan x="510" y="190" class="keyColor">Host</tspan>: <tspan class="valueColor">University Of Colombo School Of Computing</tspan><tspan class="commentColor"> #BIT</tspan>
+<tspan x="510" y="210" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Bachelor Of Information Technology</tspan><tspan class="commentColor"></tspan>
+<tspan x="510" y="230" class="keyColor">Possition</tspan>: <tspan class="valueColor">"Colombo, Sri Lanka"</tspan>
+<tspan x="510" y="280" class="keyColor">Languages</tspan><tspan class="keyColor"></tspan>: <tspan class="valueColor">[Java, JavaScript, typeScript]</tspan>
+<tspan x="510" y="300" class="keyColor">Skills</tspan><tspan class="keyColor"></tspan>: <tspan class="valueColor">HTML, CSS, React, Node, Express, Nextjs</tspan>
+<tspan x="510" y="320" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Sinhala</tspan>
+<tspan x="510" y="340" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">io</tspan>: <tspan class="valueColor">Gaming, Football, Movies</tspan>
+<tspan x="510" y="390" class="keyColor">Contact</tspan>:
+<tspan x="510" y="410">——————</tspan>
+<tspan x="510" y="430" class="keyColor">Email</tspan>: <tspan class="valueColor">thizaradeshan@gmail.com</tspan>
+<tspan x="510" y="450" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">thisaradeshan</tspan>
+<tspan x="510" y="470" class="keyColor">X</tspan>: <tspan class="valueColor">@Thizara1</tspan>
 </text>
 
 </svg>
